@@ -1,0 +1,17 @@
+{
+  "name": "@will_is_santos/prettier-config-backend",
+  "version": "1.0.0",
+  "description": "My personal prettierrc for backend in nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "WillisSantos",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
